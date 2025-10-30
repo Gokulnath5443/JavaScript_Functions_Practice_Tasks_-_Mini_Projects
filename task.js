@@ -1,8 +1,8 @@
 // 1. Greeting Function
 // Write a function greet(name) that takes a name and prints: 
 // Hello, <name>! Welcome to JavaScript.
+// ans:self code
 
-// ans:
 // let name=prompt("Enter your Name :")
 // function greet(name){
 //     console.log(`hello,${name}! welcome to javascript`)
@@ -11,7 +11,7 @@
 
 // 2. Sum of Two Numbers
 // Write a function add(a, b) that returns the sum of two numbers.
-// ans:
+// ans:self code
 
 // let a=Number(prompt("Enter Your A value : "))
 // let b=Number(prompt("Enter Your B value : "))
@@ -23,7 +23,7 @@
 // 3. Default Parameters
 // Create a function multiply(a, b = 2) that multiplies two numbers.
 //  If b is not passed, it should use the default value 2.
-// ans:
+// ans:self code
 
 // function multiply(a, b = 2){
 //     return a*b;
@@ -33,7 +33,8 @@
 
 // 4. Find Maximum of Three Numbers
 // Write a function findMax(a, b, c) that returns the largest of three numbers.
-// ans:
+// ans:self code
+
 // let a=parseInt(prompt("Enter first number :"))
 // let b=parseInt(prompt("Enter second number :"))
 // let c=parseInt(prompt("Enter third number :"))
@@ -54,7 +55,7 @@
 
 // 5. Count Words in a Sentence
 // Write a function countWords(sentence) that returns how many words are in a sentence.
-// ans:
+// ans:self code
 
 // let sentence =prompt("Enter your sentence :")
 // function senten(sentence){
@@ -65,7 +66,7 @@
 
 // 6. Check Even or Odd
 // Write an arrow function isEven(num) that returns true if a number is even, otherwise false.
-// ans:
+// ans:self code
 
 // let n =parseInt(prompt("Enter your number :"))
 // let num =n=>{
@@ -81,7 +82,7 @@
 
 // 7. Calculate Factorial
 // Write a function factorial(n) that returns the factorial of a number.
-// ans:
+// ans:self code 
 
 // let n =parseInt(prompt("Enter your factorial number :"))
 // function num(n){
@@ -95,7 +96,7 @@
 
 // 8. Count Vowels in a String
 // Write a function countVowels(str) that counts how many vowels (a, e, i, o, u) are in a string.
-// ans:
+// ans:self code
 
 // let str =prompt("enter your string :")
 // function string(str){
@@ -112,7 +113,7 @@
 
 // 9. Create a function to check prime number
 // Write a function isPrime(num) that returns true if the number is prime, otherwise false.
-// ans:
+// ans:god help
 
 // let num=Number(prompt("Enter your number :"))
 // function prime(num){
@@ -137,7 +138,7 @@
 // 10. Closure Counter
 // Write a function createCounter() that returns another function.
 //  Every time the inner function is called, it should return the next count (1, 2, 3...).
-// ans:
+// ans:self code
 
 //   function createcounter(){
 //   let count =0
@@ -153,6 +154,7 @@
 
 
 // 🎯 Mini Project 1 – Simple Calculator
+// Ans:self code
 
 // let a=parseInt(prompt("Enter your first value :"))
 // let b=parseInt(prompt("Enter your second value :"))
@@ -185,7 +187,7 @@
 
 
 // 🎯 Mini Project 2 – Student Grade Evaluator
-// ans:
+// ans:self code
 
 // let a=parseInt(prompt("Enter your subject 1 mark :"))
 // let b=parseInt(prompt("Enter your subject 2 mark :"))
@@ -226,7 +228,9 @@
 
 
 // 🎯 Mini Project 3 – Random Quote Generator
-// ans:
+// ans: god help
+
+
 /*
 <!DOCTYPE html>
 <html lang="en">
@@ -349,7 +353,7 @@
 
 
 // 🎯 Mini Project 4 – Temperature Converter
-// ans:
+// ans:self code
 
 // let value=prompt("Enter your value :")
 // let scale=prompt("Enter your scale (C,F) :")
