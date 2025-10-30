@@ -114,21 +114,23 @@
 // Write a function isPrime(num) that returns true if the number is prime, otherwise false.
 // ans:
 
-// let num= Number(prompt("Enter your Number :"))
-// function primenum(num){
-//     if(num==2 ||num==3||num==5||num==7){
-//         return "prime num"
+// let num=Number(prompt("Enter your number :"))
+// function prime(num){
+//     if ( num==1||num==0){
+//         return `false ${num} is not prime number `;
 //     }
-//     else if(num%2==0 ||num%3==0||num%5==0||num%7==0)
-//     {
-//         return "not prime num"
+//     for (i=2;i<num;i++){
+//         if (num==2||num==3||num==5||num==7){
+//             return `true ${num} is prime number`;
+//         }
+//         else if(num%i==0){
+//             return`false ${num} is not prime number`;
+//         }
 //     }
-//     else 
-//     {
-//      return  " prime num"
-//     }
+//     return `true ${num} is prime number`
 // }
-// console.log(primenum(num))
+
+// console.log(prime(num))
 
 
 
