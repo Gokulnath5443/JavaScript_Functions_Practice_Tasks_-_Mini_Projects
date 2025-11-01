@@ -113,7 +113,7 @@
 
 // 9. Create a function to check prime number
 // Write a function isPrime(num) that returns true if the number is prime, otherwise false.
-// ans:god help
+// ans:Discussed
 
 // let num=Number(prompt("Enter your number :"))
 // function prime(num){
@@ -228,7 +228,7 @@
 
 
 // 🎯 Mini Project 3 – Random Quote Generator
-// ans: god help
+// ans: Refer from youtube
 
 
 /*
